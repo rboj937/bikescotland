@@ -1,0 +1,24 @@
+body{
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+.bgDark{
+    background-color: mediumturquoise;
+}
+
+a{
+    color: azure;
+    font-size: 30px;
+    font-family:fantasy;
+}
+
+a:hover{
+    color: hotpink;
+}
+
+.badeen-display-regular {
+  font-family: "Badeen Display", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
